@@ -69,8 +69,6 @@ section figure a:hover::after {
 }
 ```
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 I found that i should practice css grid more because it's been a long time i'm not using it .
